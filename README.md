@@ -16,7 +16,7 @@ The dataset file is located in the `data` folder of this project and is named `I
 To run this project, you'll need to install the dependencies listed in the `requirements.txt` file. Follow these steps to set up your environment:
 
 1. **Clone the Repository**
-    - git clone https://github.com/i4seeu/sentiment-analysis.git
+    - git clone https://github.com/i4seeu/sentiment-analysis.git or git clone git@github.com:i4seeu/sentiment-analysis.git or gh repo clone i4seeu/sentiment-analysis
     - cd sentiment-analysis
 
 2. **Set Up a Virtual Environment (Optional but Recommended)**
